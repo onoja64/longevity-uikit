@@ -1,5 +1,5 @@
 {
-  "name": "@onoja64/longuikit",
+  "name": "@onoja64/longevityuikit",
   "version": "0.2.3",
   "description": "Set of UI components for Longevity Intime projects",
   "main": "dist/index.cjs.js",
@@ -8,7 +8,7 @@
   "files": [
     "dist"
   ],
-  "repository": "https://github.com/onoja64/long-uikit",
+  "repository": "https://github.com/onoja64/longevity-uikit",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c && tsc -d --emitDeclarationOnly --declarationDir dist",
